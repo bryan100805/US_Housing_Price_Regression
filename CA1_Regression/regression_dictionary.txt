@@ -1,0 +1,16 @@
+******* housing dataset (regression) ********
+This is a dataset collected from a property agent, it contains 545 data points with 8 columns.
+
+House ID: Unique house identifier ranging from 0 to 544
+City: Which city the house is located
+House Area: Size of the house in square meters
+No. of Bedrooms: How many bedrooms in the house
+No. of Toilets: How many toilets in the house
+Stories: The number of stories in the house
+Renovation Status: How well the house is renovated
+Price: The price of the house in US dollars
+
+
+
+
+
